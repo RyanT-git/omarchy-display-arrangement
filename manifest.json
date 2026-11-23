@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.ryant-git.display-arrangement",
+  "name": "Display Arrangement",
+  "version": "1.0.0",
+  "author": "RyanT-git",
+  "description": "Omarchy's Display widget plus a Windows-style arrangement editor: drag displays into place, drag corners to rescale, identify screens, and close gaps the pointer can't cross.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Display Arrangement",
+    "description": "Brightness, scale, and a drag-and-drop display arrangement editor",
+    "category": "System",
+    "allowMultiple": false
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.monitor"
+  }
+}

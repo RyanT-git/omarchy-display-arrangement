@@ -1,0 +1,23 @@
+{
+  "arrange.title": "Arrangement",
+  "arrange.hint": "Drag a display to move it. Drag a corner to change its scale.",
+  "arrange.gap": "%1 isn't touching another display (%2 px gap), so the pointer can't reach it.",
+  "arrange.overlap": "%1 and %2 overlap.",
+  "arrange.unsaved": "Changes not applied yet.",
+  "arrange.closeGaps": "Close gaps",
+  "arrange.reset": "Reset",
+  "arrange.apply": "Apply",
+  "arrange.confirm": {
+    "one": "Keep this layout? Reverting in %1 second.",
+    "other": "Keep this layout? Reverting in %1 seconds."
+  },
+  "arrange.keep": "Keep",
+  "arrange.revert": "Revert",
+  "arrange.saved": "Saved to monitors.lua.",
+  "arrange.reverted": "Reverted to the previous layout.",
+  "arrange.applyFailed": "Hyprland rejected the layout: %1",
+  "arrange.saveFailed": "Applied, but saving failed: %1",
+  "arrange.details": "%1×%2 @ %3 Hz · %4×%5 logical",
+  "arrange.scale": "Scale",
+  "arrange.identify": "Identify"
+}
